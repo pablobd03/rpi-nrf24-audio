@@ -1,6 +1,6 @@
 # Audio inalámbrico — Raspberry Pi Zero 2 W + INMP441 + nRF24L01
 
-Proyecto de telecomunicaciones (Laboratorio 201 IE, UCR).  
+Proyecto de Ingeniería de Comunicaciones (IE0527).  
 Captura voz en un nodo, la transmite por radio en banda ISM 2.4 GHz y la reproduce en el otro nodo.
 
 ---
